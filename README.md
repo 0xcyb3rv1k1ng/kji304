@@ -1,4 +1,5 @@
-[![Header](https://raw.githubusercontent.com/kji304/<OWNER>/<OWNER>/readme_banner.png "Header")]
+[![Header](https://raw.githubusercontent.com/kji304/kji304/master/banner.png"Header")]
+
 
 - 🔭 I’m currently working on completing the Kingsland University Blockchain Developer Bootcamp
 - 🌱 I’m currently learning Solidity.
