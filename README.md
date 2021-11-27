@@ -9,7 +9,7 @@
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=kji304&show_icons=true&theme=vision-friendly-dark&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kji304&hide=html,css,java,shaderlab,kotlin,hlsl&theme=vision-friendly-dark">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kji304&theme=vision-friendly-dark">
 </p>
 
 <p align = "center">
