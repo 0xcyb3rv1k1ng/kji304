@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/kji304/kji304/master/banner.png">
+<img src="https://raw.githubusercontent.com/kji304/kji304/master/header.png">
 
 
 - 🔭 I’m currently working on completing the Kingsland University Blockchain Developer Bootcamp
