@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/kji304/kji304/master/header.png">
 
 
-- 🔭 I recently completed the Kingsland University Blockchain Developer Bootcamp
-- 🌱 I’m currently learning Solidity.
+- 🔭 I am a graduate of the Kingsland University Blockchain Developer Bootcamp
+- 🌱 I am a Certified Blockchain Engineer.
 - 👯 I’m looking to collaborate with other blockchain developers.
 - 📫 How to reach me **ingentr75@gmail.com**
 - ⚡ Fun fact: Top 10 score in the world on the arcade game Galaga. 
