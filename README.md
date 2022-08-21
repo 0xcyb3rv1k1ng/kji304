@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/kji304/kji304/master/header.png">
 
 
-- 🔭 I’m currently working on completing the Kingsland University Blockchain Developer Bootcamp
+- 🔭 I recently completed the Kingsland University Blockchain Developer Bootcamp
 - 🌱 I’m currently learning Solidity.
 - 👯 I’m looking to collaborate with other blockchain developers.
 - 📫 How to reach me **ingentr75@gmail.com**
