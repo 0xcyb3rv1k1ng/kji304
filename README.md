@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/kji304/kji304/master/github-header-image-2.png">
+<img src="https://raw.githubusercontent.com/kji304/kji304/master/github-header-image-3.png">
 
 
 - 🔭 Graduate of the Kingsland University Blockchain Developer Bootcamp
