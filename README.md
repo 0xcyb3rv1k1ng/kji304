@@ -1,10 +1,10 @@
-<img src="https://raw.githubusercontent.com/kji304/kji304/master/header.png">
+<img src="https://raw.githubusercontent.com/kji304/kji304/master/github-user-header.png">
 
 
-- 🔭 I am a graduate of the Kingsland University Blockchain Developer Bootcamp
-- 🌱 I am a Certified Blockchain Engineer.
+- 🔭 Graduate of the Kingsland University Blockchain Developer Bootcamp
+- 🌱 Certified Blockchain Engineer.
 - 👯 I’m looking to collaborate with other blockchain developers.
-- 📫 How to reach me **ingentr75@gmail.com**
+- 📫 How to reach me **0xcyb3rv1k1ng@gmail.com**
 - ⚡ Fun fact: Top 10 score in the world on the arcade game Galaga. 
 
 <p align = "center">
@@ -25,8 +25,8 @@
 <br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/kji304dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kji304dev" height="30" width="40" /></a>
+<a href="https://twitter.com/0xcyb3rv1k1ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xcyb3rv1k1ng" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kji304dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kji304dev" height="30" width="40" /></a>
-<a href="https://instagram.com/kji304dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kji304dev" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/kji304dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kji304dev" height="30" width="40" /></a> -->
 </p>
 
